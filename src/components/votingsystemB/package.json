@@ -1,0 +1,24 @@
+{
+  "name": "votingsystemb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "fs": "^0.0.1-security",
+    "ganache-cli": "^6.12.2",
+    "mdb-react-ui-kit": "^5.1.0",
+    "mocha": "^10.2.0",
+    "node-localstorage": "^2.2.1",
+    "node-metamask": "^1.1.2",
+    "path": "^0.12.7",
+    "solc": "^0.8.16",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.8.1"
+  }
+}
